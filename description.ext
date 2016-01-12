@@ -1,0 +1,4 @@
+author="Swedish Forces Pack (Dahlgren)";
+onLoadName = "SOG Islands Raid";
+onLoadMission = "Destroy the anti air capability on the islands and kill the enemy officer";
+overviewtext = "Destroy the anti air capability on the islands and kill the enemy officer";
